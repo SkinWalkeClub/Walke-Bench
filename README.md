@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1546701155462021220/1554540565193031740/walkebench.png?ex=6abd4238&is=6abbf0b8&hm=18bc28d257c6c51cf3b19b035e411e026e51e3d5009427dfba3c69bc155b6659&=&format=webp&quality=lossless&width=320&height=320" width="600" alt="Walke Serializer">
+</p>
+
 # Walke Bench
 
-An executor report card. It scores any executor on how many of the standard UNC/sUNC functions it *actually* has (not just claims), checks that the important ones really work, benchmarks its speed, and prints a shareable report.
+An executor report card. It scores any executor on how many of the standard UNC/sUNC functions it *actually* has (not just claims), checks that the important ones really work, benchmarks its speed, and prints a shareable report
 
-Stop arguing about "which executor is best" — run this and post the numbers.
+Stop arguing about "which executor is best" just run this and post the results
 
 ## Load it
 
